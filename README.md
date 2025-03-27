@@ -1,4 +1,6 @@
-Aplicativo Python de Logs com Grafana Loki
+#Aplicativo Python de Logs com Grafana Loki
+
+
 📝 Descrição
 Este aplicativo Python demonstra como implementar logs estruturados e enviar métricas para o Grafana Loki para monitoramento e visualização. O aplicativo inclui recursos para gerar diferentes níveis de log, logging estruturado e integração com o sistema de logs do Loki.
 
